@@ -1,4 +1,4 @@
-# Paytm clone using tailwindcss [live link]()
+# Paytm clone using tailwindcss [live link](https://mypaytmclone1.netlify.app/)
 
 ## skills gained from this project
     - I learned to use flexbox and grid
